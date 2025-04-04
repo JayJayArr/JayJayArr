@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @JayJayArr
-- 👀 You have something new I can learn, especially Backend Stuff? Gimme!
-- 🔧 Have not found the right project to waste my time on yet, if you got something let me know.
-- 🌱 I’m currently learning Rust 🦀, go rustlings!
+- 👋 Hi, I’m @JayJayArr, you might know me as Jakob
+- 🔧 I am open to projects which need contributions, preferrably using Rust.
+- 🌱 I’m currently learning Rust 🦀 and Kubernetes.
 - 📫 If you are trying to reach me: JayJayArr@outlook.de
-- ⚡ Fun fact: If you can guess my second name I will buy you a coffee.
 - 🧉 > ☕
 
 <!---
